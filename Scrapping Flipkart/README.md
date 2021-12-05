@@ -18,6 +18,6 @@ Display In GUI wondow
 
 ![Screenshot (44)](https://user-images.githubusercontent.com/95564532/144740314-db8de60e-023e-49cf-9191-0c0c207002c7.png)
 
-Display in Condsole
+Display in Console
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/95564532/144740333-864570b4-b6d2-4bfb-a9f4-5e8d62b36301.png)
