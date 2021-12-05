@@ -1,25 +1,49 @@
-Sr No.,Iphone Product,Price,Rating
-1,"APPLE iPhone SE (White, 64 GB)","₹27,999",4.5
-2,"APPLE iPhone 12 (Blue, 128 GB)","₹61,999",4.7
-3,"APPLE iPhone SE (Red, 64 GB)","₹27,999",4.5
-4,"APPLE iPhone 12 (Black, 64 GB)","₹55,999",4.7
-5,"APPLE iPhone 12 Mini (Blue, 128 GB)","₹49,999",4.5
-6,"APPLE iPhone 12 Mini (Red, 128 GB)","₹49,999",4.5
-7,"APPLE iPhone SE (White, 128 GB)","₹32,999",4.5
-8,"APPLE iPhone 12 Mini (Black, 64 GB)","₹44,999",4.5
-9,"APPLE iPhone 12 Mini (White, 64 GB)","₹44,999",4.5
-10,"APPLE iPhone SE (Black, 128 GB)","₹32,999",4.5
-11,"APPLE iPhone 12 Mini (Green, 128 GB)","₹49,999",4.5
-12,"APPLE iPhone SE (Red, 128 GB)","₹32,999",4.5
-13,"APPLE iPhone 12 (Red, 128 GB)","₹61,999",4.7
-14,"APPLE iPhone 12 Mini (Blue, 64 GB)","₹44,999",4.5
-15,"APPLE iPhone 12 (Red, 64 GB)","₹55,999",4.7
-16,"APPLE iPhone 12 Mini (Black, 128 GB)","₹49,999",4.5
-17,"APPLE iPhone 12 Mini (Purple, 64 GB)","₹44,999",4.5
-18,"APPLE iPhone SE (Red, 256 GB)","₹42,999",4.5
-19,"APPLE iPhone 13 Pro Max (Graphite, 256 GB)","₹1,39,900",4.7
-20,"APPLE iPhone 12 Mini (White, 256 GB)","₹59,999",4.5
-21,"APPLE iPhone 12 Mini (Black, 256 GB)","₹59,999",4.5
-22,"APPLE iPhone 12 Mini (Blue, 256 GB)","₹59,999",4.5
-23,"APPLE iPhone 11 (Yellow, 64 GB)","₹49,900",4.6
-24,"Apple iPhone XR (White, 64 GB) (Includes EarPods, Power Adapter)","₹47,900",4.6
+Sr No.,Iphone Product,Price,Rating
+
+1,"APPLE iPhone SE (White, 64 GB)","₹27,999",4.5
+
+2,"APPLE iPhone 12 (Blue, 128 GB)","₹61,999",4.7
+
+3,"APPLE iPhone SE (Red, 64 GB)","₹27,999",4.5
+
+4,"APPLE iPhone 12 (Black, 64 GB)","₹55,999",4.7
+
+5,"APPLE iPhone 12 Mini (Blue, 128 GB)","₹49,999",4.5
+
+6,"APPLE iPhone 12 Mini (Red, 128 GB)","₹49,999",4.5
+
+7,"APPLE iPhone SE (White, 128 GB)","₹32,999",4.5
+
+8,"APPLE iPhone 12 Mini (Black, 64 GB)","₹44,999",4.5
+
+9,"APPLE iPhone 12 Mini (White, 64 GB)","₹44,999",4.5
+
+10,"APPLE iPhone SE (Black, 128 GB)","₹32,999",4.5
+
+11,"APPLE iPhone 12 Mini (Green, 128 GB)","₹49,999",4.5
+
+12,"APPLE iPhone SE (Red, 128 GB)","₹32,999",4.5
+
+13,"APPLE iPhone 12 (Red, 128 GB)","₹61,999",4.7
+
+14,"APPLE iPhone 12 Mini (Blue, 64 GB)","₹44,999",4.5
+
+15,"APPLE iPhone 12 (Red, 64 GB)","₹55,999",4.7
+
+16,"APPLE iPhone 12 Mini (Black, 128 GB)","₹49,999",4.5
+
+17,"APPLE iPhone 12 Mini (Purple, 64 GB)","₹44,999",4.5
+
+18,"APPLE iPhone SE (Red, 256 GB)","₹42,999",4.5
+
+19,"APPLE iPhone 13 Pro Max (Graphite, 256 GB)","₹1,39,900",4.7
+
+20,"APPLE iPhone 12 Mini (White, 256 GB)","₹59,999",4.5
+
+21,"APPLE iPhone 12 Mini (Black, 256 GB)","₹59,999",4.5
+
+22,"APPLE iPhone 12 Mini (Blue, 256 GB)","₹59,999",4.5
+
+23,"APPLE iPhone 11 (Yellow, 64 GB)","₹49,900",4.6
+
+24,"Apple iPhone XR (White, 64 GB) (Includes EarPods, Power Adapter)","₹47,900",4.6
