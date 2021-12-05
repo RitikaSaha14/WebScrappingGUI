@@ -5,9 +5,7 @@
                      lxml ---> pip install lxml
 '''
 
-
 # Web Scrapping in Python 3 Using Beautiful Soup with Tkinter GUI
-
 
 import csv
 from bs4 import BeautifulSoup                 
