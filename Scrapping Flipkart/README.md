@@ -11,7 +11,8 @@ Choose mode
 
 Create CSV file
 
-![Screenshot (43)](https://user-images.githubusercontent.com/95564532/144740293-3229e333-1f56-4c7e-8376-6004a7394bb0.png)
+
+![Screenshot (46)](https://user-images.githubusercontent.com/95564532/144740360-c7855496-d9c1-467c-acd8-8b729082be25.png)
 
 Display In GUI wondow
 
